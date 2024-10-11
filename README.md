@@ -10,6 +10,7 @@
 
 <hr>
 
+# select your version
 # Look on the right for Releases ----> #
 
 <hr>
