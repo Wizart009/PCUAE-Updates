@@ -2,7 +2,8 @@
 # PCUAE-Updates #
 # Why updates...  #
 * Its because i always find some bugs or issues after release
-* they are most off times critical fixes and we dont want bugs that why there are updates
+* They are most off times critical fixes and we dont want bugs that why there are updates
+* And when PCUAE dont work ok always look for update and install it on media you use
 <hr>
 
 # PCUAE v4.5.1 (r2) Updates RELEASED v4.5.1.132 #
