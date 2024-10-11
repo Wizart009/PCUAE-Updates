@@ -15,9 +15,7 @@
 
 <hr>
 
-If you can not see the Releases then click here: https://github.com/Wizart009/PCUAE-Updates
+# If you can not see the Releases then click here: <br> https://github.com/Wizart009/PCUAE-Updates/releases/latest #
+# PCUAE v.4.5.1 updates thread #
+# https://thec64community.online/thread/1753/pcuae-updates-thread-v4-5 #
 <br>
-Or https://github.com/Wizart009/PCUAE-Updates/releases/latest
-<br>
-PCUAE v.4.5.1 just released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
-============================
