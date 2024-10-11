@@ -1,8 +1,6 @@
 # Updated - 11/10/2024 #
 # PCUAE-Updates #
 # Why updates...  #
-* PCUAE Updates
-* This is the PCUAE Updates downloads page for PCUAE
 * Its because i always find some bugs or issues after release
 * they are most off times critical fixes and we dont want bugs that why there are updates
 <hr>
