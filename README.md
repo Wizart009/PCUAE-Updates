@@ -1,4 +1,4 @@
-# PCUAE-Updates
+ PCUAE-Updates
 Updated - 11/10/2024
 <br>
 PCUAE Updates
@@ -15,7 +15,7 @@ and we dont want bugs that why there are updates
 =====================
 PCUAE v4.5.1 RELEASED - Look on the right for Releases ---->
 ======================
-If you can not see the Releases then click here: https://github.com/CommodoreOS/PCUAE
+If you can not see the Releases then click here: https://github.com/Wizart009/PCUAE-Updates
 
 Sorry it took so long... :)
 
