@@ -7,10 +7,11 @@
 <hr>
 
 # PCUAE v4.5.1 (r2) Updates RELEASED v4.5.1.132 (latest version) For version 4.5.1 (revison 2 or later) #
+# there are older versions too the above is the latest
 
 <hr>
 
-# select your version
+# Select your version
 # Look on the right for Releases ----> #
 
 <hr>
