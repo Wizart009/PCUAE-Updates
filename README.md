@@ -6,8 +6,8 @@
 * And when PCUAE dont work ok always look for update and install it on the media you use
 <hr>
 
-# PCUAE v4.5.1 (r2) Update v4.5.1.132 (latest version) (Use revison 2 or later) #
-# There are more versions too v4.5.1.132 is the latest
+# PCUAE v4.5.1 Update v4.5.1.132 (latest version) (Use revison 2 (R2) or later)
+# There are other versions too v4.5.1.132 is the latest
 
 <hr>
 
