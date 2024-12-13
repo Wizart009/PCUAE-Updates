@@ -17,5 +17,5 @@
 
 # If you can not see the Releases then click here: <br> https://github.com/Wizart009/PCUAE-Updates/releases/latest #
 # PCUAE v.5.1.1 updates thread #
-# [[https://thec64community.online/thread/1753/pcuae-updates-thread-v4-5 #](https://thec64community.online/thread/1788/pcuae-updates-thread-v5-1)](https://thec64community.online/thread/1788/pcuae-updates-thread-v5-1) #
+# https://thec64community.online/thread/1788/pcuae-updates-thread-v5-1
 <br>
