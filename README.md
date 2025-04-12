@@ -1,4 +1,4 @@
-# Updated - 05/03/2025 #
+# Updated - 12/04/2025 #
 # PCUAE-Updates #
 # Why updates...  #
 * Its because i always find some bugs or issues after release
@@ -6,7 +6,7 @@
 * And when PCUAE dont work ok always look for update and install it on the media you use
 <hr>
 
-# PCUAE v5.2.3 (latest version)
+# PCUAE v5.2.5 (latest version)
 
 <hr>
 
