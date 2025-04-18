@@ -19,3 +19,5 @@
 # PCUAE v.5.2.3 updates thread #
 # https://thec64community.online/thread/1815/pcuae-updates-v5-2-3
 <hr>
+
+https://github.com/Wizart009/Setups/releases/download/v0.1.0-alpha/ezgif-18e1d8e6e620cb.gif
