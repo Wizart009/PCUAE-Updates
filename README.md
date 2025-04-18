@@ -20,4 +20,4 @@
 # https://thec64community.online/thread/1815/pcuae-updates-v5-2-3
 <hr>
 
-<img src="https://github.com/Wizart009/Setups/releases/download/v0.1.0-alpha/ezgif-18e1d8e6e620cb.gif" alt="tour" width="480" height="854" />
+<img src="https://github.com/Wizart009/Setups/releases/download/v0.1.0-alpha/ezgif-18e1d8e6e620cb.gif" alt="tour" width="854" height="480" />
