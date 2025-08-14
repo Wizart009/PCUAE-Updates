@@ -1,4 +1,4 @@
-# Updated - 12/04/2025 #
+# Updated - 14/08/2025 #
 # PCUAE-Updates #
 # Why updates...  #
 * Its because i always find some bugs or issues after release
