@@ -6,7 +6,7 @@
 * And when PCUAE dont work ok always look for update and install it on the media you use
 <hr>
 
-# PCUAE v5.2.5 (latest version)
+# PCUAE v6.0.0 (latest version)
 
 <hr>
 
@@ -16,7 +16,7 @@
 <hr>
 
 # If you can not see the Releases then click here: <br> https://github.com/Wizart009/PCUAE-Updates/releases/latest #
-# PCUAE v.5.2.3 updates thread #
+# PCUAE v.6.0.0 updates thread #
 # https://thec64community.online/thread/1815/pcuae-updates-v5-2-3
 <hr>
 
