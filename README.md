@@ -6,6 +6,10 @@
 * And when PCUAE dont work ok always look for update and install it on the media you use
 <hr>
 
+# PCUAE BUGS https://bugsprojectcarouselusb.eu
+
+<hr>
+
 # PCUAE v6.0.0 (latest version)
 
 <hr>
