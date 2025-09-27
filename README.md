@@ -6,7 +6,8 @@
 * And when PCUAE dont work ok always look for update and install it on the media you use
 <hr>
 
-# PCUAE BUGS <a href="[url](https://bugsprojectcarouselusb.eu)">PCUAE BUGS</a>
+# PCUAE BUGS
+<a href="[url](https://bugsprojectcarouselusb.eu)">PCUAE BUGS</a>
 
 <hr>
 
