@@ -10,7 +10,7 @@
 
 <hr>
 
-# PCUAE v6.0.0 (latest version)
+# PCUAE v6.1.0 (latest version)
 
 <hr>
 
